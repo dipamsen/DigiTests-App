@@ -13,6 +13,14 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
+    "notification": {
+      "icon": "./assets/icon.png"
+    },
+    "android": {
+      "package": "com.dipam.digitests",
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],

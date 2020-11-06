@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002705129248",
+    "firebase_url": "https://digitests-e9230.firebaseio.com",
+    "project_id": "digitests-e9230",
+    "storage_bucket": "digitests-e9230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002705129248:android:f8eb2d1d1753bafd58d145",
+        "android_client_info": {
+          "package_name": "com.dipam.digitests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002705129248-5e5bh691giijtrd5fn88d4vj7p0cc6bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeObR6ffG_bmWZA-HxCoWlqHYH2My88k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002705129248-5e5bh691giijtrd5fn88d4vj7p0cc6bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
