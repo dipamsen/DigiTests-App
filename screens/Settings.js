@@ -5,7 +5,6 @@ import Header from '../components/Header'
 import { TextInput, RadioButton } from 'react-native-paper';
 import db from '../config'
 import { Button } from 'react-native';
-import { unmountComponentAtNode } from 'react-dom';
 
 export default class Settings extends React.Component {
   constructor() {
@@ -61,7 +60,7 @@ export default class Settings extends React.Component {
         />
         <Button onPress={this.save}>
           SAVE CHANGES
-        </Button>
+          </Button>
       </View>
 
     )
